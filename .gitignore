@@ -1,1 +1,6 @@
 .idea/
+<<<<<<< HEAD
+=======
+*.csv
+venv
+>>>>>>> d92766352555998ebf1ab3aeb0cb9e70e2fc0563
